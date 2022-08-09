@@ -1,6 +1,5 @@
 package net.scmods.mixins;
 
-import net.minecraft.block.BlockEntityProvider;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
 import net.minecraft.world.World;
